@@ -20,6 +20,8 @@ html, body {
     font-family: 'Bebas Neue';
     padding-top: 100px;
     padding-bottom: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .texto-2{
@@ -34,4 +36,6 @@ html, body {
     font-family: 'Inconsolata';
     padding-top: 300px;
     font-size: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
